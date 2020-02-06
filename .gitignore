@@ -7,3 +7,6 @@ package-lock.json
 
 # Error Logs
 yarn-error.log
+
+# Compiled TypeScript
+.src
