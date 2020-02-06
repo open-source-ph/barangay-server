@@ -6,7 +6,7 @@
   "author": "BosEriko <bos.eriko@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": "echo 'test'"
+    "start": "nodemon ./.server/index.js"
   },
   "dependencies": {
     "koa": "^2.11.0",
