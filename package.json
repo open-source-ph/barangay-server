@@ -6,7 +6,7 @@
   "author": "BosEriko <bos.eriko@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon ./.src/index.js",
+    "start": "nodemon .src/index.js",
     "build": "tsc",
     "watch": "tsc --watch"
   },
